@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://ajithkumar-k-portfolio.netlify.app/](https://ajithkumar-k-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux, Node JS and Express JS**
+- 💬 Ask me about **React, Redux, MongoDB Node JS and Express JS**
 
 - 📫 How to reach me **ajithkumark30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cwVUH72zpbhVVv3kUxd7R8BWSsoCC8Te/view?pli=1](https://drive.google.com/file/d/1cwVUH72zpbhVVv3kUxd7R8BWSsoCC8Te/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_5G7zZ1tBje1HLtV0Iz1UdwOtqF9M-cb/view?usp=sharing](https://drive.google.com/file/d/1_5G7zZ1tBje1HLtV0Iz1UdwOtqF9M-cb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
